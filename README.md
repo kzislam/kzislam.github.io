@@ -1,14 +1,14 @@
 # Kamal Ziaul Islam
 
 **Location:** 20 University Dr, Corner Brook, NL  
-**LinkedIn:** [LinkedIn Profile](#) | **GitHub:** [GitHub Profile](#) | **Google Citation:** [Google Scholar](#)  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kamal-ziaul-islam/) | **GitHub:** [GitHub Profile](https://github.com/kzislam/kzislam.github.io/edit/main/README.md) | **Google Citation:** [Google Scholar](https://scholar.google.ca/citations?user=xB1cZTAAAAAJ&hl=en)  
 **Email:** kzislam@mun.ca | **Mobile:** 709 639 2607  
 
 ---
 
 ## RESEARCHER
 
-As a climate change researcher, I bring over three years of hands-on experience in hydrological modeling, specifically utilizing the Soil and Water Assessment Tool, HEC-HMS, Hydrus-1D, and CropWat model. Proficient in programming languages like Python and R, as well as GIS software such as ArcMap and QGIS, I excel in data analysis and scientific report writing. Beyond technical skills, I prioritize collaboration and engagement, working closely with interdisciplinary teams and stakeholders to address climate change challenges. My ability to communicate findings effectively and foster meaningful partnerships underscores my commitment to driving impactful change in this field. With a dedication to continuous learning and a passion for environmental sustainability, I am well-equipped to make valuable contributions as a climate change researcher.
+As a climate change researcher, I bring over three years of hands-on experience in hydrological modeling, specifically utilizing the Soil and Water Assessment Tool, Hydrus-1D, and CropWat model. Proficient in programming languages like Python and R, as well as GIS software such as ArcMap and QGIS, I excel in data analysis and scientific report writing. Beyond technical skills, I prioritize collaboration and engagement, working closely with interdisciplinary teams and stakeholders to address climate change challenges. My ability to communicate findings effectively and foster meaningful partnerships underscores my commitment to driving impactful change in this field. With a dedication to continuous learning and a passion for environmental sustainability, I am well-equipped to make valuable contributions as a climate change researcher.
 
 ---
 
